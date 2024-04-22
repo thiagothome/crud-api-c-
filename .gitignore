@@ -1,0 +1,9 @@
+*.log
+*.cache
+Crud2.http
+
+bin/
+Crud2.csproj.user
+ob/
+Migrations/
+.vs/
